@@ -2,7 +2,7 @@ name: Super-Linter
 
 on:
   schedule:
-    -cron: '* 6 * * *'
+    -cron: '* 9 * * *'
 
 jobs:
   super-lint:
